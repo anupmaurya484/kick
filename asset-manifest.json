@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kick/static/css/main.afe845b6.css",
-    "main.js": "/kick/static/js/main.8c0deb6e.js",
+    "main.css": "/kick/static/css/main.689cf276.css",
+    "main.js": "/kick/static/js/main.2143d0a8.js",
     "static/js/787.573fe5ba.chunk.js": "/kick/static/js/787.573fe5ba.chunk.js",
     "static/media/market.jpg": "/kick/static/media/market.fc408fd9bb892b58dd96.jpg",
     "static/media/stocks.jpg": "/kick/static/media/stocks.ee8632ca6d829e604035.jpg",
@@ -11,13 +11,14 @@
     "static/media/imagetwo.png": "/kick/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
     "static/media/logo-small-2.png": "/kick/static/media/logo-small-2.136ed584b67eb9dad942.png",
     "static/media/logo-small.png": "/kick/static/media/logo-small.1e9f0792a1d594de3557.png",
+    "static/media/light-logo.png": "/kick/static/media/light-logo.2d53562b681cce7776bc.png",
     "index.html": "/kick/index.html",
-    "main.afe845b6.css.map": "/kick/static/css/main.afe845b6.css.map",
-    "main.8c0deb6e.js.map": "/kick/static/js/main.8c0deb6e.js.map",
+    "main.689cf276.css.map": "/kick/static/css/main.689cf276.css.map",
+    "main.2143d0a8.js.map": "/kick/static/js/main.2143d0a8.js.map",
     "787.573fe5ba.chunk.js.map": "/kick/static/js/787.573fe5ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe845b6.css",
-    "static/js/main.8c0deb6e.js"
+    "static/css/main.689cf276.css",
+    "static/js/main.2143d0a8.js"
   ]
 }
