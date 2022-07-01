@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/kick/static/css/main.689cf276.css",
-    "main.js": "/kick/static/js/main.7741e966.js",
-    "static/js/787.573fe5ba.chunk.js": "/kick/static/js/787.573fe5ba.chunk.js",
-    "static/media/market.jpg": "/kick/static/media/market.fc408fd9bb892b58dd96.jpg",
-    "static/media/stocks.jpg": "/kick/static/media/stocks.ee8632ca6d829e604035.jpg",
-    "static/media/amazon.png": "/kick/static/media/amazon.da84a489ba8b1224f211.png",
-    "static/media/card-post-footer.png": "/kick/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
-    "static/media/imageone.png": "/kick/static/media/imageone.dbe1650e0c92c7147894.png",
-    "static/media/imagetwo.png": "/kick/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
-    "static/media/logo-small-2.png": "/kick/static/media/logo-small-2.136ed584b67eb9dad942.png",
-    "static/media/logo-small.png": "/kick/static/media/logo-small.1e9f0792a1d594de3557.png",
-    "static/media/light-logo.png": "/kick/static/media/light-logo.2d53562b681cce7776bc.png",
-    "index.html": "/kick/index.html",
-    "main.689cf276.css.map": "/kick/static/css/main.689cf276.css.map",
-    "main.7741e966.js.map": "/kick/static/js/main.7741e966.js.map",
-    "787.573fe5ba.chunk.js.map": "/kick/static/js/787.573fe5ba.chunk.js.map"
+    "main.css": "/static/css/main.a70668e6.css",
+    "main.js": "/static/js/main.c0b5c015.js",
+    "static/js/787.573fe5ba.chunk.js": "/static/js/787.573fe5ba.chunk.js",
+    "static/media/market.jpg": "/static/media/market.fc408fd9bb892b58dd96.jpg",
+    "static/media/stocks.jpg": "/static/media/stocks.ee8632ca6d829e604035.jpg",
+    "static/media/amazon.png": "/static/media/amazon.da84a489ba8b1224f211.png",
+    "static/media/card-post-footer.png": "/static/media/card-post-footer.390cc5dccef30ce50eaf.png",
+    "static/media/imageone.png": "/static/media/imageone.dbe1650e0c92c7147894.png",
+    "static/media/imagetwo.png": "/static/media/imagetwo.d8eada3c2f6bb6c0afd8.png",
+    "static/media/logo-small-2.png": "/static/media/logo-small-2.136ed584b67eb9dad942.png",
+    "static/media/white-logo-small.png": "/static/media/white-logo-small.4a7f6ad18b9709eac2fb.png",
+    "static/media/dark-logo-small.png": "/static/media/dark-logo-small.2092d06e27c232e1dfe0.png",
+    "index.html": "/index.html",
+    "main.a70668e6.css.map": "/static/css/main.a70668e6.css.map",
+    "main.c0b5c015.js.map": "/static/js/main.c0b5c015.js.map",
+    "787.573fe5ba.chunk.js.map": "/static/js/787.573fe5ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.689cf276.css",
-    "static/js/main.7741e966.js"
+    "static/css/main.a70668e6.css",
+    "static/js/main.c0b5c015.js"
   ]
 }
