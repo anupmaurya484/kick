@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kick/static/css/main.ec62ffba.css",
-    "main.js": "/kick/static/js/main.f3a00144.js",
+    "main.css": "/kick/static/css/main.e041778e.css",
+    "main.js": "/kick/static/js/main.1a715243.js",
     "static/js/787.573fe5ba.chunk.js": "/kick/static/js/787.573fe5ba.chunk.js",
     "static/media/market.jpg": "/kick/static/media/market.fc408fd9bb892b58dd96.jpg",
     "static/media/stocks.jpg": "/kick/static/media/stocks.ee8632ca6d829e604035.jpg",
@@ -13,12 +13,12 @@
     "static/media/black-logo-sm-2.png": "/kick/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
     "static/media/white-logo-sm-2.png": "/kick/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
     "index.html": "/kick/index.html",
-    "main.ec62ffba.css.map": "/kick/static/css/main.ec62ffba.css.map",
-    "main.f3a00144.js.map": "/kick/static/js/main.f3a00144.js.map",
+    "main.e041778e.css.map": "/kick/static/css/main.e041778e.css.map",
+    "main.1a715243.js.map": "/kick/static/js/main.1a715243.js.map",
     "787.573fe5ba.chunk.js.map": "/kick/static/js/787.573fe5ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec62ffba.css",
-    "static/js/main.f3a00144.js"
+    "static/css/main.e041778e.css",
+    "static/js/main.1a715243.js"
   ]
 }
