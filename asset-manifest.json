@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/kick/static/css/main.77f1ab9c.css",
-    "main.js": "/kick/static/js/main.8f38d391.js",
+    "main.css": "/kick/static/css/main.07085dd9.css",
+    "main.js": "/kick/static/js/main.16c2172a.js",
     "static/js/787.573fe5ba.chunk.js": "/kick/static/js/787.573fe5ba.chunk.js",
+    "static/media/PTF55F.ttf": "/kick/static/media/PTF55F.26d0ba434e0874b7ebcf.ttf",
     "static/media/market.jpg": "/kick/static/media/market.fc408fd9bb892b58dd96.jpg",
     "static/media/stocks.jpg": "/kick/static/media/stocks.ee8632ca6d829e604035.jpg",
     "static/media/amazon.png": "/kick/static/media/amazon.da84a489ba8b1224f211.png",
@@ -13,12 +14,12 @@
     "static/media/black-logo-sm-2.png": "/kick/static/media/black-logo-sm-2.2b746481de2311fed3c3.png",
     "static/media/white-logo-sm-2.png": "/kick/static/media/white-logo-sm-2.22f8fc649d65e153bca4.png",
     "index.html": "/kick/index.html",
-    "main.77f1ab9c.css.map": "/kick/static/css/main.77f1ab9c.css.map",
-    "main.8f38d391.js.map": "/kick/static/js/main.8f38d391.js.map",
+    "main.07085dd9.css.map": "/kick/static/css/main.07085dd9.css.map",
+    "main.16c2172a.js.map": "/kick/static/js/main.16c2172a.js.map",
     "787.573fe5ba.chunk.js.map": "/kick/static/js/787.573fe5ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77f1ab9c.css",
-    "static/js/main.8f38d391.js"
+    "static/css/main.07085dd9.css",
+    "static/js/main.16c2172a.js"
   ]
 }
