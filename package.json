@@ -10,7 +10,7 @@
     "dev": "nuxt",
     "build": "nuxt build -m",
     "build:analyze": "nuxt build -a -m",
-    "start": "nuxt start"
+    "start": "npm run build & nuxt start"
   },
   "dependencies": {
     "@nuxtjs/google-fonts": "1.3.0",
