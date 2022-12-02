@@ -1,0 +1,17 @@
+// https://wkhtmltopdf.org/downloads.html
+
+
+// $ heroku buildpacks:clear
+// $ heroku buildpacks:add --index 1 https://github.com/jontewks/puppeteer-heroku-buildpack
+// $ heroku buildpacks:add --index 1 heroku/nodejs
+
+// const browser = await puppeteer.launch({
+//   'args' : [
+//     '--no-sandbox',
+//     '--disable-setuid-sandbox'
+//   ]
+// });
+
+// $ git add .
+// $ git commit -m "Fixing deployment issue"
+// $ git push heroku master
